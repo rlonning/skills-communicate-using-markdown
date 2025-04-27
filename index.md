@@ -5,6 +5,10 @@
 ##### Header 5
 ###### Header 6
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Alt text: Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
